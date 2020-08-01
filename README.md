@@ -15,8 +15,8 @@ This is an unpublished update to the above app. It has a lot of improvement and 
 ![Image](https://mitchel-jf.github.io/my-apps/gagner_home.png)  ![Image](https://mitchel-jf.github.io/my-apps/gagner_quiz.png)
 ![Image](https://mitchel-jf.github.io/my-apps/gagner_result.png)
 
-[Click here](https://mitchel-jf.github.io/my-apps/gagner-arm.apk) to download it from Github for android-arm.
-[Click here](https://mitchel-jf.github.io/my-apps/gagner-arm64.apk) to download it from Github for android-arm64.
+[Click here](https://mitchel-jf.github.io/my-apps/gagner-arm.apk) to download it from Github for android-arm.  
+[Click here](https://mitchel-jf.github.io/my-apps/gagner-arm64.apk) to download it from Github for android-arm64.  
 Be aware that your browser might warn you that you're about to download a harmful file, but no worries, it's safe.
 
 
@@ -26,8 +26,8 @@ This one is yet to get to the client, it serves as a prototype to an insight int
 
 ![Image](https://mitchel-jf.github.io/my-apps/payworth_dashboard.png)  ![Image](https://mitchel-jf.github.io/my-apps/payworth_transactions.png)
 
-[Click here](https://mitchel-jf.github.io/my-apps/payworth-arm.apk) to download it from Github for android-arm.
-[Click here](https://mitchel-jf.github.io/my-apps/payworth-arm64.apk) to download it from Github for android-arm64.
+[Click here](https://mitchel-jf.github.io/my-apps/payworth-arm.apk) to download it from Github for android-arm.  
+[Click here](https://mitchel-jf.github.io/my-apps/payworth-arm64.apk) to download it from Github for android-arm64.  
 Be aware that your browser might warn you that you're about to download a harmful file, but no worries, it's safe.
 
 
@@ -37,8 +37,8 @@ This one is for a client who is yet to pay, so it's not been completed yet.
 
 ![Image](https://mitchel-jf.github.io/my-apps/cravinns_home.png)  ![Image](https://mitchel-jf.github.io/my-apps/cravinns_detail.png)
 
-[Click here](https://mitchel-jf.github.io/my-apps/cravens-arm.apk) to download it from Github for android-arm.
-[Click here](https://mitchel-jf.github.io/my-apps/cravens-arm64.apk) to download it from Github for android-arm64.
+[Click here](https://mitchel-jf.github.io/my-apps/cravens-arm.apk) to download it from Github for android-arm.  
+[Click here](https://mitchel-jf.github.io/my-apps/cravens-arm64.apk) to download it from Github for android-arm64.  
 Be aware that your browser might warn you that you're about to download a harmful file, but no worries, it's safe.
 
 
@@ -49,6 +49,6 @@ so you'll need to make sure your data connection is on.
 
 ![Image](https://mitchel-jf.github.io/my-apps/bootify_men.png)  ![Image](https://mitchel-jf.github.io/my-apps/bootify_women.png)
 
-[Click here](https://mitchel-jf.github.io/my-apps/bootify-arm.apk) to download it from Github for android-arm.
-[Click here](https://mitchel-jf.github.io/my-apps/bootify-arm64.apk) to download it from Github for android-arm64.
+[Click here](https://mitchel-jf.github.io/my-apps/bootify-arm.apk) to download it from Github for android-arm.  
+[Click here](https://mitchel-jf.github.io/my-apps/bootify-arm64.apk) to download it from Github for android-arm64.  
 Be aware that your browser might warn you that you're about to download a harmful file, but no worries, it's safe.
