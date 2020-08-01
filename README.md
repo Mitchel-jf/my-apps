@@ -12,7 +12,7 @@ This is the first major work I published to the Play Store, it has bagged a litt
 ## 2. Gagner Unilag
 This is an unpublished update to the above app. It has a lot of improvement and is a  lot more promising.
 
-![Image](https://mitchel-jf.github.io/my-apps/gagner_home.png)  ![Image](https://mitchel-jf.github.io/my-apps/gagner_quiz.png)
+![Image](https://mitchel-jf.github.io/my-apps/gagner_home.png =100x20)  ![Image](https://mitchel-jf.github.io/my-apps/gagner_quiz.png)
 ![Image](https://mitchel-jf.github.io/my-apps/gagner_result.png)
 
 [Click here](https://mitchel-jf.github.io/my-apps/gagner-arm.apk) to download it from Github for android-arm.
