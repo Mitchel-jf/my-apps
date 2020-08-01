@@ -3,7 +3,7 @@
 ## 1. Tobehk Tutorials-UNILAG Post-UTME Preparatory App
 This is the first major work I published to the Play Store, it has bagged a little over #50,000 in two years.
 
-![Image](https://mitchel-jf.github.io/my-apps/tt_home.png =512x1024)  ![Image](https://mitchel-jf.github.io/my-apps/tt_quiz.png =512x1024)
+![Image](https://mitchel-jf.github.io/my-apps/tt_home.png=512x1024)  ![Image](https://mitchel-jf.github.io/my-apps/tt_quiz.png=512x1024)
 
 [Click here](https://play.google.com/store/apps/details?id=unilag.tobehktutorials.com.final_tobehk) to download it from Google Play Store
 
