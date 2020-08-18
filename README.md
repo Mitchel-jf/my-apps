@@ -21,6 +21,17 @@ Be aware that your browser might warn you that you're about to download a harmfu
 
 
 
+## 3. A Beautiful Timer
+Built with a simple BlOC State Management in Flutter.
+
+![Image](https://mitchel-jf.github.io/my-apps/timer.png)  ![Image](https://mitchel-jf.github.io/my-apps/timer2.png)
+
+[Click here](https://mitchel-jf.github.io/my-apps/timer-arm.apk) to download it from Github for android-arm.  
+[Click here](https://mitchel-jf.github.io/my-apps/timer-arm64.apk) to download it from Github for android-arm64.  
+Be aware that your browser might warn you that you're about to download a harmful file, but no worries, it's safe.
+
+
+
 ## 3. Payworth
 A prototype to an insight into a super market business.
 
