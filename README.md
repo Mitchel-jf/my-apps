@@ -1,6 +1,6 @@
 # **Links To My Apps**
 
-## 1. Tobehk Tutorials-UNILAG Post-UTME Preparatory App
+## Tobehk Tutorials-UNILAG Post-UTME Preparatory App
 Published to the Play Store.
 
 ![Image](https://mitchel-jf.github.io/my-apps/tt_home.png)  ![Image](https://mitchel-jf.github.io/my-apps/tt_quiz.png)
@@ -9,7 +9,7 @@ Published to the Play Store.
 
 
 
-## 2. Gagner Unilag
+## Gagner Unilag
 Unpublished update to the above app. It has a lot of improvement and is a  lot more promising.
 
 ![Image](https://mitchel-jf.github.io/my-apps/gagner_home.png)  ![Image](https://mitchel-jf.github.io/my-apps/gagner_quiz.png)
@@ -21,7 +21,7 @@ Be aware that your browser might warn you that you're about to download a harmfu
 
 
 
-## 3. A Beautiful Timer
+## A Beautiful Timer
 Built with a simple BlOC State Management in Flutter.
 
 ![Image](https://mitchel-jf.github.io/my-apps/timer.JPG)  ![Image](https://mitchel-jf.github.io/my-apps/timer2.JPG)
@@ -32,7 +32,7 @@ Be aware that your browser might warn you that you're about to download a harmfu
 
 
 
-## 3. Payworth
+## Payworth
 A prototype to an insight into a super market business.
 
 ![Image](https://mitchel-jf.github.io/my-apps/payworth_dashboard.png)  ![Image](https://mitchel-jf.github.io/my-apps/payworth_transactions.png)
@@ -43,7 +43,7 @@ Be aware that your browser might warn you that you're about to download a harmfu
 
 
 
-## 4. Cravens
+## Cravens
 A food ordering app.
 
 ![Image](https://mitchel-jf.github.io/my-apps/cravinns_home.png)  ![Image](https://mitchel-jf.github.io/my-apps/cravinns_detail.png)
@@ -54,7 +54,7 @@ Be aware that your browser might warn you that you're about to download a harmfu
 
 
 
-## 5. Bootify
+## Bootify
 A boot e-commerce app- Please note that the images here are fetched from the internet
 so you'll need to make sure your data connection is on.
 
